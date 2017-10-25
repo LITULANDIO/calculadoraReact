@@ -1,0 +1,16 @@
+.key-button{
+  width:20%;
+  height: 98px;
+  font-family: DS-Digital;
+  font-size: 55px;
+  font-weight: 600;
+  background: black;
+  color: white;
+  box-shadow: 2px 2px 63px #999;
+  float: left;
+  border-top-width: 7px;
+    border-left-width: 7px;
+    border-bottom-width: 7px;
+    border-right-width: 7px;
+
+}

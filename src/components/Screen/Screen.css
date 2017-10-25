@@ -1,0 +1,16 @@
+
+.screen{
+border: 1px solid black;
+border-radius: 5px;
+padding: 3px;
+margin-bottom: 16px;
+}
+.pantalla{
+width: 56%;
+height: 90%;
+border: 1px solid grey;
+color:white;
+background: black;
+padding: 15px;
+
+}

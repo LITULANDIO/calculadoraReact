@@ -1,0 +1,18 @@
+.calculator{
+	width: 50%;
+	display:inline-flex;
+	flex-direction: column;
+	padding: 20px;
+	font-family: DS-Digital;
+	font-size: 55px;
+	font-weight: 600;
+
+}
+
+.numbers{
+	
+	width: 80%;
+	height: 22px;
+	background-color: white; 
+
+}
