@@ -1,3 +1,12 @@
+
+## Calculator with React.js
+
+```npm install 
+```
+
+![calculadora]Screen recording 2017-10-26 at 04.56.52 PM.gif
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
